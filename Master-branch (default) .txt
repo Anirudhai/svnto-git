@@ -1,0 +1,8 @@
+uninstall mysql server 
+rename to mysql server .old
+install mysql server 
+create a database Atlas
+
+
+local admin user inside virtual machine 
+SA user authantaction 
